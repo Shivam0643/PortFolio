@@ -16,9 +16,9 @@ export default function About() {
           Education & Training
         </h1>
         <span>
-          [Degree/Certification], [Institution], [Year] [Degree/Certification],
-          [Institution], [Year] [Relevant Course], [Platform/Institution],
-          [Year]
+          Bachelor of Technology(B.tech) in Information Technology,K.D.K. College of Engineering Nagpur, 2021-2025.
+          
+
         </span>
         <br />
         <br />
@@ -26,8 +26,7 @@ export default function About() {
           Skills & Expertise
         </h1>
         <span>
-          Proficient in [Programming Languages] Experienced with [Software
-          Tools/Technologies] Strong grasp of [Design Principles/Concepts]
+          Proficient in JAVA Experienced with Web Developement Skills, JavaScript, React.js, MySql,
           Excellent problem-solving skills Effective communicator and
           collaborator
         </span>
@@ -37,11 +36,7 @@ export default function About() {
           Professional Experience
         </h1>
         <span>
-          [Job Title], [Company/Organization], [Dates] [Brief description of
-          responsibilities and achievements] [Job Title],
-          [Company/Organization], [Dates] [Brief description of responsibilities
-          and achievements] [Freelance/Contract Work], [Client/Organization],
-          [Dates] [Brief description of projects and contributions]
+          Fresher, Looking for intership opportunities and remote jobs.
         </span>
         <br />
         <br />
@@ -49,8 +44,7 @@ export default function About() {
           Achievements & Awards
         </h1>
         <span>
-          [Award/Recognition], [Organization/Institution], [Year] [Achievement],
-          [Organization/Platform], [Year]
+          Awarded for SPARK-2024 paper presentation on Resume builder.
         </span>
         <br />
         <br />
@@ -59,7 +53,7 @@ export default function About() {
         </h1>
         <p>
           My mission is to leverage my skills and creativity to deliver
-          innovative [Your Field] solutions that exceed client expectations and
+          innovative IT solutions that exceed client expectations and
           contribute positively to the digital landscape. I am committed to
           continuous learning and growth, always seeking new challenges and
           opportunities to expand my horizons.
